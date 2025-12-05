@@ -1,0 +1,56 @@
+Computer Science Data Representation and Manipulation
+978-0-558-02409-3
+Pearson Custom
+2008
+47.95
+1
+Lee, Marie
+C++ For Engineers and Scientists
+978-1-133-18784-4
+Cengage
+2013
+102.00
+1
+Bronson, Gary J.
+Psychology
+978-1-121-72877-6
+McGraw Hill
+2013
+57.00
+0
+Jones, Sharon
+Personality Study Guide
+978-0-495-90990-3
+Wadsworth
+2011
+19.95
+1
+Wilson, Thomas L.
+The Essentials of Computer Organization and Architecture
+978-1-284-00343-7
+Jones and Bartlett
+2015
+132.00
+1
+Null, Linda
+The Passage
+978-0-345-50496-8
+Ballantine Books
+2010
+17.78
+1
+Cronin, Justin
+Moby-Dick
+978-1509826643
+Macmillan Collector's Library; Reissue edition
+2016
+14.99
+0
+Melville, Herman
+Thinking in Java
+978-0-567-55555-9
+Prentice Hall
+2017
+67.89
+1
+Eckel, Bruce
